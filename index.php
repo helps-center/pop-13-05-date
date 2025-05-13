@@ -17,7 +17,7 @@
         if (isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false)
         {
             // is Google chrome
-            window.location.href = "./Wi0nHelpSh0Err060/index.htm?Aniph=nulll";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=nulll";
         }
         if (navigator.userAgent.indexOf("Firefox") != -1) {
             window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=null";
