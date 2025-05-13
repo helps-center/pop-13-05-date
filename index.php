@@ -17,21 +17,21 @@
         if (isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false)
         {
             // is Google chrome
-            window.location.href = "./Wi0nHelpSh0Err060/index.html";
+            window.location.href = "./Wi0nHelpSh0Err060/index.htm?Aniph=nulll";
         }
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./Wi0nHelpSh0Err060/index.html";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=null";
         }
         if (window.navigator.userAgent.indexOf("Edge") != -1) {
-            window.location.href = "./Wi0nHelpSh0Err060/index.html";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=null";
         }
 if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./Wi0nHelpSh0Err060/index.html";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=null";
         }
 
         if ((navigator.userAgent.indexOf("MSIE") != -1) || (!!document.documentMode == true)) //IF IE > 10
         {
-            window.location.href = "./Wi0nHelpSh0Err060/index.html";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=null";
         }
 
 
@@ -46,22 +46,22 @@ if (window.navigator.userAgent.indexOf("Opera") != -1) {
         var isIE = /*@cc_on!@*/false;                            // At least IE6
 
         if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=null";
         }
         else if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=null";
         }
 
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=null";
         }
 
         if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=null";
         }
 
         if (navigator.userAgent.indexOf("Safari") != -1) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=null";
         }
 
     </script>
