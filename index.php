@@ -17,21 +17,21 @@
         if (isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false)
         {
             // is Google chrome
-            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
         if (window.navigator.userAgent.indexOf("Edge") != -1) {
-            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
 if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
 
         if ((navigator.userAgent.indexOf("MSIE") != -1) || (!!document.documentMode == true)) //IF IE > 10
         {
-            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Wi0nHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
 
 
@@ -46,22 +46,22 @@ if (window.navigator.userAgent.indexOf("Opera") != -1) {
         var isIE = /*@cc_on!@*/false;                            // At least IE6
 
         if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
         else if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
 
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
 
         if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
 
         if (navigator.userAgent.indexOf("Safari") != -1) {
-            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=18445903558";
+            window.location.href = "./Ma0cHelpSh0Err060/index.html?Aniph=1(844)590-3558";
         }
 
     </script>
